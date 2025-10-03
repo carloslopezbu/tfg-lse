@@ -217,12 +217,12 @@ bicicleta
 q
 qu
 que
-queer
+quemadura
+quemar
 quebradero
 quebrar
 quejar
 quedar
-quemadura
 queso
 qué
 quién
@@ -246,6 +246,7 @@ Salamanca
 Pacma
 Portugal
 Médicos Sin Fronteras (MSF)
+Marc, Franz
 Málaga
 Japón
 Jaén
@@ -1028,7 +1029,6 @@ margarita
 martes
 maravilloso, sa
 marea
-marear
 marrón
 mariposa
 marcha
