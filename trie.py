@@ -1,4 +1,4 @@
-from rust_wordsoup import _Trie
+from scraper import _Trie
 
 
 class Trie:

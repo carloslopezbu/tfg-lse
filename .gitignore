@@ -10,3 +10,5 @@ wheels/
 .venv
 rust-wordsoup/target/
 .DS_Store
+*.mp4
+*.pth.tar

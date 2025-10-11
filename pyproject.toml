@@ -9,6 +9,8 @@ dependencies = [
     "fake-useragent>=2.2.0",
     "marimo>=0.16.3",
     "maturin>=1.9.4",
+    "numpy>=2.3.3",
     "playwright>=1.55.0",
     "requests>=2.32.5",
+    "torch>=2.8.0",
 ]
